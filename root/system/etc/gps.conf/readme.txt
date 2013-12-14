@@ -1,0 +1,1 @@
+请选择你要的gps.conf放到/system/etc/下
